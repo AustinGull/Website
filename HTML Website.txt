@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>About Me<h1>
+
+<p>Here is some information about me I’m Austin Gull and because I know photography and the creative industry inside out, I can be your greatest asset. Before I tell you what I can do for you, there are a few things you’ll want to know about me: I’m an RMIT-trained commercial photographer, so from a technical point of view, I know the trade. After studying, I worked in Europe and the UK in film and TV.</p>
+
+<a href="https://www.youtube.com/watch?v=q6yHoSvrTss">Funny Video</a>
+<a href="https://open.spotify.com/playlist/5MGGedKvhRia8BFmYUaXR6">Spotify Playlist</a> 
+
+<h2>Basic HTML Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Game</th>
+    <th>Favorite Character/Weapon</th> 
+    <th>Favorite Map</th>
+  </tr>
+  <tr>
+    <td>Overwatch</td>
+    <td>Pharah</td>
+    <td>Watchpoint Gibraltar</td>
+  </tr>
+  <tr>
+    <td>Halo: Reach</td>
+    <td>DMR</td>
+    <td>Hemorrhage</td>
+  </tr>
+  <tr>
+    <td>Black Ops 2</td>
+    <td>Hammer</td>
+    <td>Hijacked</td>
+  </tr>
+</table>
+
+</body>
+</html>
